@@ -1,17 +1,21 @@
 # Simon Wong
 
+<p align="center">
+  <img src="./simon.png" alt="Simon Wong" width="200"/>
+</p>
+
 **Engineering student. Collaborator. Maker.**
 
 I'm a third-year Mechanical Biomedical Engineering Co-op student at the University of Alberta, exploring the intersection of robotics, machine learning, and biomedical engineering. 
 
-## 🔬 Current Focus
+## Current Projects
 
 - Leading AI development for Alberta Bionix's prosthetic leg project.
 - Developing reinforcement learning and computer vision pipelines for adaptive prosthetic control at the BLINC Lab.
 - Contributing to the Alberta Heart artificial heart project.
 - Building CNN-DQN implementations for visual grasp prediction.
 
-## 🛠️ Technologies & Tools
+## Technologies and Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -35,15 +39,4 @@ I'm a third-year Mechanical Biomedical Engineering Co-op student at the Universi
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1C4E80?style=flat&logoColor=white)
 
-
-## 📫 Connect With Me
-
-[![Website](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://simonwong.site)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simonwong@ualberta.ca)
-
-## 📊 GitHub Stats
-
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=made-by-simon&show_icons=true&theme=default)
-
 ---
-
