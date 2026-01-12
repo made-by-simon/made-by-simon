@@ -1,7 +1,9 @@
 # Simon Wong
 
 <p align="center">
-  <img src="./simon.png" alt="Simon Wong" width="200"/>
+  <a href="https://simonwong.site">
+    <img src="./simon.jpg" alt="Simon Wong" width="300"/>
+  </a>
 </p>
 
 **Engineering student. Collaborator. Maker.**
@@ -38,5 +40,3 @@ I am a third-year Mechanical Biomedical Engineering Co-op student at the Univers
 ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1C4E80?style=flat&logoColor=white)
-
----
