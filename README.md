@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://simonwong.site">
-    <img src="./simon.jpg" alt="Simon Wong" width="300"/>
+    <img src="./simon.png" alt="Simon Wong" width="300"/>
   </a>
 </p>
 
