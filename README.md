@@ -8,14 +8,15 @@
 
 **Engineering student. Collaborator. Maker.**
 
-I am a third-year Mechanical Biomedical Engineering Co-op student at the University of Alberta, exploring the intersection of robotics, machine learning, and biomedical engineering. 
+I explore ideas, find problems to solve, and push boundaries.
+With vision for the future, thoughtful organization, and uncompromising quality.
 
 ## Current Projects
 
 - Leading AI development for Alberta Bionix's prosthetic leg project.
 - Developing reinforcement learning and computer vision pipelines for adaptive prosthetic control at the BLINC Lab.
 - Contributing to the Alberta Heart artificial heart project.
-- Building CNN-DQN implementations for visual grasp prediction.
+- Working on various (too many) other things.
 
 ## Technologies and Tools
 
