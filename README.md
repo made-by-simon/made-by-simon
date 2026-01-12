@@ -43,7 +43,7 @@ I'm a third-year Mechanical Biomedical Engineering Co-op student at the Universi
 
 ## 📊 GitHub Stats
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=made-by-simon&show_icons=true&theme=default)
 
 ---
 
