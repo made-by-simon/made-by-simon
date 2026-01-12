@@ -6,7 +6,7 @@
 
 **Engineering student. Collaborator. Maker.**
 
-I'm a third-year Mechanical Biomedical Engineering Co-op student at the University of Alberta, exploring the intersection of robotics, machine learning, and biomedical engineering. 
+I am a third-year Mechanical Biomedical Engineering Co-op student at the University of Alberta, exploring the intersection of robotics, machine learning, and biomedical engineering. 
 
 ## Current Projects
 
