@@ -13,7 +13,7 @@ With vision for the future, thoughtful organization, and uncompromising quality.
 
 ## Current Projects
 
-- AI Team Lead for Alberta Bionix's prosthetic leg project.
+- Robotics and AI Lead for Alberta Bionix's prosthetic leg project.
 - Reinforcement learning and computer vision pipeline development for adaptive prosthetic control at BLINC Lab.
 - Pumping team member for the Alberta Heart artificial heart project.
 - Various other projects in robotics and biomedical engineering.
