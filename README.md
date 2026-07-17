@@ -1,11 +1,5 @@
 # Simon Wong
 
-<p align="center">
-  <a href="https://simonwong.site">
-    <img src="./simon.png" alt="Simon Wong" width="300"/>
-  </a>
-</p>
-
 ## Technologies and Tools
 
 ### Languages
